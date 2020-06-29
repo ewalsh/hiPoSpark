@@ -1,0 +1,7 @@
+.bloop
+.classpath
+.metals
+target
+*.class
+*.jar
+null
